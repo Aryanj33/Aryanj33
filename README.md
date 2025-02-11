@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Frontend Developer | DSA Enthusiast
+# 👋 Full Stack Developer | DSA Enthusiast
 
 ### Crafting pixel-perfect web experiences with clean, efficient code
 
