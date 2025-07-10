@@ -45,38 +45,5 @@
 
 ---
 
-## 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aryanj33&theme=radical&hide_border=true"/>
-</p>
 
----
-
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryanj33/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-<details>
-  <summary>✨ More About Me</summary>
-  <ul>
-    <li>💡 Always experimenting with new tools and frameworks</li>
-    <li>🎯 Interested in solving real-world problems with code</li>
-    <li>📚 Believer in continuous learning & self-improvement</li>
-    <li>🥏 Love hackathons, open source, and tech meetups</li>
-  </ul>
-</details>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aryanj33/Aryanj33/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
-<!-- You can personalize further with your own SVGs, images, or custom sections! -->
