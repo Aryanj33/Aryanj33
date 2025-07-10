@@ -16,7 +16,7 @@
 - 🧑‍💻 Passionate about building cool web apps, contributing to open source, and diving into new technologies.
 - 🎨 I love crafting beautiful, performant, and user-friendly products.
 - 🌱 Currently learning everything I can, from DevOps to AI.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryanj33/) | [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/aryanj33/](https://www.linkedin.com/in/aryanwuw/)) | [Email](mailto:aryankushwahno01@gmail.com)
 
 ---
 
